@@ -1,0 +1,40 @@
+div#courseItemsContainer {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 50px;
+  grid-row-gap: 10px;
+  align-items: center;
+}
+
+div.course-item-row {
+  position: relative;
+  height: 40px;
+}
+
+div.edit-del-but {
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  text-align: end;
+  top: 0px;
+  right: 0px;
+}
+
+button.edit-but,
+button.del-but {
+  width: 15%;
+  height: 100%;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border: none;
+}
+
+button.edit-but {
+  background-color: rgb(128, 128, 128);
+  margin-right: 5px;
+}
+
+button.del-but {
+  background-color: rgb(255, 166, 0);
+}
