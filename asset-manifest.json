@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bcourse-app%7D/static/css/main.3877069e.css",
+    "main.js": "/%7Bcourse-app%7D/static/js/main.e4aa73a5.js",
+    "index.html": "/%7Bcourse-app%7D/index.html",
+    "main.3877069e.css.map": "/%7Bcourse-app%7D/static/css/main.3877069e.css.map",
+    "main.e4aa73a5.js.map": "/%7Bcourse-app%7D/static/js/main.e4aa73a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3877069e.css",
+    "static/js/main.e4aa73a5.js"
+  ]
+}
